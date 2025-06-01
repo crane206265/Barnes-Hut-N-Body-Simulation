@@ -6,6 +6,7 @@ Barnes-Hut algorithm is the algorithm for N-body simulation, using k-dimensional
 Below is the paper I referenced:
 
 
+
 Barnes & Hut, "A hierarchical O(N log N) force-calculation algorithm", Nature, 324, pages446–449 (1986).
 
 
