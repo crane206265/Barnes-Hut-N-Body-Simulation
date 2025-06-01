@@ -1,8 +1,12 @@
 # Barnes-Hut-N-Body-Simulation
 N-body simulation with Barnes-Hut Algorithm. This code is written in python.
 
-Barnes-Hut algorithm is the algorithm for N-body simulation, using k-dimensional tree data structures. Below is the paper I referenced:
+Barnes-Hut algorithm is the algorithm for N-body simulation, using k-dimensional tree data structures.
+
+Below is the paper I referenced:
+
 Barnes & Hut, "A hierarchical O(N log N) force-calculation algorithm", Nature, 324, pages446–449 (1986).
+
 
 --------------------
 
